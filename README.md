@@ -41,17 +41,6 @@ The model is trained using TensorFlow/Keras with:
 - Categorical cross-entropy loss
 - Image augmentation for generalization
 
-## Results
-- **Accuracy:** 93.5%
-- **Precision & Recall:** High scores across multiple classes
-- **Confusion Matrix:** Shows strong classification performance
 
-## Contributors
-- **Krithika Janakiraman**  
-  📧 [vdjraman@gmail.com](mailto:vdjraman@gmail.com)  
-  🔗 [LinkedIn](https://www.linkedin.com/in/krithika-j-62713b243/)  
-  🏗 [GitHub](https://github.com/krithi8028)
-
-## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
