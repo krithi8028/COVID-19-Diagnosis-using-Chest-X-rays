@@ -27,8 +27,7 @@ Used a curated dataset of chest X-rays with 4 classes:
 - Viral Pneumonia  
 - Lung Opacity
 
-*Sample distribution:*  
-![Class Distribution](https://via.placeholder.com/400x200?text=Class+Distribution+Chart)
+
 
 ## Technical Approach
 
