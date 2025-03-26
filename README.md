@@ -46,7 +46,7 @@ Used a curated dataset of chest X-rays with 4 classes:
 
 ### Model Architecture
 - **Transfer Learning** with:
-  - EfficientNet
+  - EfficientNetB0
   - VGG19
 - Custom CNN layers for fine-tuning
 - Trained with Adam optimizer
